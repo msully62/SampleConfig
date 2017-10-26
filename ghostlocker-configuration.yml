@@ -1,0 +1,66 @@
+UserConfig:
+  ViewedToEndCutoffPercentage: 95
+  ResumePointLifetimeHours: 720
+  ResumePointCountLimit: 5
+  PlaybackSessionKeepAliveMins: 10
+  MaxProfiles: 5
+  MaxPlaybackSessionsPerUserReachedMessage: Four (4) devices at one time is the max. Please stop playback on an active device and try again.
+  MaxPlaybackSessionsPerUser: 4
+
+StarzIntegraion:
+  PlaydataUrl: https://playdata.starz.com/metadata-service/play/content/partner/web.json
+  PlaydataCachePartitionKey: PlayDataCache
+  PlayDataCacheItemTtlSeconds: 7200
+  ProfileImageUrlBase: https://glprofileimages.imgix.net/qa/profile/image/
+  IconImageUrlList: canned/avatar-01.png,canned/avatar-02.png,canned/avatar-03.png,canned/avatar-04.png,canned/avatar-05.png,canned/avatar-06.png,canned/avatar-07.png,canned/avatar-08.png,canned/avatar-09.png,canned/avatar-10.png,canned/avatar-11.png,canned/avatar-12.png,canned/avatar-13.png
+  PreviousIpGeoPartitionKey: null,null,2820_0158_0757
+  IpGeoPartitionKey: 2821_0158_0757
+  IpGeoKeyspace: ipgeo_data_qa01
+  CurrentIpGeoTableName: ipgeo_a
+  XmlConfig: null
+
+DeluxeIntegraion:
+  TokenOverridesString: [{\"OverrideDictionary\":{\"MinimumSecurityLevel\":\"150\"},\"PlatformName\":\"Xbox\"}]
+  RentalDurationMinutes: 40800
+  LicenseTokenVersion: 1.0
+  DownloadLicenseDurationMinutes: 40800
+  DmsStarzStatusUri: utility/gettime
+  DmsStarzSecondaryCachePartitionKey: DmsPlaybackSecondaryCache
+  DmsStarzPlaybackUri: dms/playbackurls
+  DmsStarzCachePartitionKey: DmsPlaybackCache
+  DmsStarzAuthKey: ApiKey a96c1336-0f59-460c-9c02-84a3ebcbc0e8
+  DmsCertPassword: K8p3BBR@W86ZoFt8o
+  DmsCertFileName: StarzDeluxeLicenseRequestSigningCert.pfx
+  DmsCacheItemSecondaryTtlSeconds: 2592000
+  DmsCacheItemSecondaryExpireSeconds: 86400
+  DmsCacheItemPrimaryTtlSeconds: 604800
+  DmsCacheItemPrimaryExpireSeconds: 300
+  DmsApiKey: 5353be27-8e2f-480d-8a64-d061805d8ae4
+  DefaultHttpRequestTimeoutMilliseconds: 1000000
+  BaseV1Url: https://qa2.api.dmlib.com/v1/
+
+CertificateFileStorage:
+  BasePathStore: certs/
+
+Aws:
+  S3RegionSecondary: us-west-2
+  S3RegionPrimary: us-east-1
+  S3BucketSecondary: dp-backend-services-us-west-2/ghostlocker/qa/profile/image/custom
+  S3BucketPrimary: dp-backend-services-us-east-1/ghostlocker/qa/profile/image/custom
+
+Auth:
+  UserTokenTimeToLiveInMinutes: 1440
+  SkewTimeInMilliseconds: 120000
+  SecurityKey: CgpHGLPTphE0fAFcYlrOZYcygmU81iqKQqDWnHbnXiUh3QxobKCo0Lt9n528acH
+  Issuer: GhostLocker
+  ClientTokenTimeToLiveInMinutes: 496000
+  Audience: GhostLocker
+  AnonymousUserTokenToLiveInMinutes: 1140
+
+ApplicationInsights:
+  InstrumentationKey: 4154b35a-24b6-4fef-94d4-edd1bf73eae0
+
+AdobePass:
+  SkewTimeInMilliseconds: 120000
+  CertificatePassword: 123456
+  CertificateFileName: media_token_keystore.p12

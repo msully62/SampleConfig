@@ -1,0 +1,7015 @@
+{
+document: {
+affiliates: [
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "3 Rivers Communications",
+hidden: false,
+id: "thr030",
+loginMode: "AdobePass",
+name: "3 Rivers Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Access Montana",
+hidden: false,
+id: "com140",
+loginMode: "AdobePass",
+name: "Access Montana",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Ace Communications Group",
+hidden: false,
+id: "acecommunications",
+loginMode: "AdobePass",
+name: "Ace Communications Group",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "ACME Communications",
+hidden: false,
+id: "acm010",
+loginMode: "AdobePass",
+name: "ACME Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Algona Municipal Utilities",
+hidden: false,
+id: "algona",
+loginMode: "AdobePass",
+name: "Algona Municipal Utilities",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "All West Communications",
+hidden: false,
+id: "allwest",
+loginMode: "AdobePass",
+name: "All West Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Allen's TV Cable Service (ATVC)",
+hidden: false,
+id: "all025",
+loginMode: "AdobePass",
+name: "Allen's TV Cable Service (ATVC)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Alliance Communications",
+hidden: false,
+id: "spl010",
+loginMode: "AdobePass",
+name: "Alliance Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "ALLO Communications",
+hidden: false,
+id: "all070",
+loginMode: "AdobePass",
+name: "ALLO Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Alpine Communications",
+hidden: false,
+id: "alpine",
+loginMode: "AdobePass",
+name: "Alpine Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "American Broadband",
+hidden: false,
+id: "hun015",
+loginMode: "AdobePass",
+name: "American Broadband",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "American Community Networks",
+hidden: false,
+id: "com130-02",
+loginMode: "AdobePass",
+name: "American Community Networks",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "American Warrior Networks",
+hidden: false,
+id: "com130-01",
+loginMode: "AdobePass",
+name: "American Warrior Networks",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Antietam Cable Television",
+hidden: false,
+id: "ANTIETAM",
+loginMode: "AdobePass",
+name: "Antietam Cable Television",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Arkwest Communications",
+hidden: false,
+id: "arkwest",
+loginMode: "AdobePass",
+name: "Arkwest Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Armstrong",
+hidden: false,
+id: "auth_armstrongmywire_com",
+loginMode: "AdobePass",
+logos: [
+{
+logoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/armstrong-logo.png",
+logoUrlApp: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/armstrong_application_logo.png",
+logoUrlRegPage: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/armstrong_registration_logo.png",
+smallLogoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/armstrong-logo-small.png"
+}
+],
+name: "Armstrong",
+properties: [ ],
+services: [
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Arvig",
+hidden: false,
+id: "arvig",
+loginMode: "AdobePass",
+name: "Arvig",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Ashland Home Net",
+hidden: false,
+id: "nttcash010",
+loginMode: "AdobePass",
+name: "Ashland Home Net",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Astound",
+hidden: false,
+id: "astound",
+loginMode: "AdobePass",
+logos: [
+{
+logoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/wave-broadband-logo-white.png",
+logoUrlApp: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/wave_application_logo.png",
+logoUrlRegPage: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/wave_registration_logo.png",
+smallLogoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/wave-broadband-logo-small.png"
+}
+],
+name: "Astound",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "AT&T U-verse",
+group: "primary",
+hidden: false,
+id: "ATT",
+loginMode: "AdobePass",
+logos: [
+{
+logoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/att-logo-white.png",
+logoUrlApp: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/att_application_logo.png",
+logoUrlRegPage: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/att_registration_logo.png",
+smallLogoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/att-logo-small.png"
+}
+],
+name: "ATT",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+],
+websiteUrl: "http://localization.att.com/loc/controller?ltype=res&unit=dstv"
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "ATC Broadband",
+hidden: false,
+id: "dix030",
+loginMode: "AdobePass",
+name: "ATC Broadband",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "ATC Communications",
+hidden: false,
+id: "ara010",
+loginMode: "AdobePass",
+name: "ATC Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Atlantic Broadband",
+group: "primary",
+hidden: false,
+id: "auth_atlanticbb_net",
+loginMode: "AdobePass",
+logos: [
+{
+logoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/abb-logo-white.png",
+logoUrlApp: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/atlanticbroadband_application_logo.png",
+logoUrlRegPage: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/atlanticbroadband_registration_logo.png",
+smallLogoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/abb-logo-small.png"
+}
+],
+name: "Atlantic Broadband",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "ATMC (Atlantic Telephone Membership Cooperative)",
+hidden: false,
+id: "atl030",
+loginMode: "AdobePass",
+name: "ATMC (Atlantic Telephone Membership Cooperative)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Baldwin Telecom",
+hidden: false,
+id: "baldwin",
+loginMode: "AdobePass",
+name: "Baldwin Telecom",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Ballard Telephone Cooperative (BTC)",
+hidden: false,
+id: "bal040",
+loginMode: "AdobePass",
+name: "Ballard Telephone Cooperative (BTC)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Bardstown Cable",
+hidden: false,
+id: "cit025",
+loginMode: "AdobePass",
+name: "Bardstown Cable",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Bay Country Communications",
+hidden: false,
+id: "bay030",
+loginMode: "AdobePass",
+name: "Bay Country Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Bay Creek Communications",
+hidden: false,
+id: "baycreek",
+loginMode: "AdobePass",
+name: "Bay Creek Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Beaver Creek Cooperative Telephone",
+hidden: false,
+id: "tel095",
+loginMode: "AdobePass",
+name: "Beaver Creek Cooperative Telephone",
+properties: [ ],
+services: [
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Beaver Valley Cable",
+hidden: false,
+id: "bea020",
+loginMode: "AdobePass",
+name: "Beaver Valley Cable",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "BEK Communications",
+hidden: false,
+id: "nrtcbek010",
+loginMode: "AdobePass",
+name: "BEK Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "BELD",
+hidden: false,
+id: "bra020",
+loginMode: "AdobePass",
+name: "BELD",
+properties: [ ],
+services: [
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Ben Lomand Connect",
+hidden: false,
+id: "vol040-01",
+loginMode: "AdobePass",
+name: "Ben Lomand Connect",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "BendBroadband",
+hidden: false,
+id: "Bend",
+loginMode: "AdobePass",
+name: "BendBroadband",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Bloomer Telephone Company (Celect Communications)",
+hidden: false,
+id: "dem010-01",
+loginMode: "AdobePass",
+name: "Bloomer Telephone Company (Celect Communications)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Blue Ridge Communications",
+hidden: false,
+id: "www_websso_mybrctv_com",
+loginMode: "AdobePass",
+logos: [
+{
+logoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/blue-ridge-logo.png",
+logoUrlApp: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/blueridge_application_logo.png",
+logoUrlRegPage: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/blueridge_registration_logo.png",
+smallLogoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/blue-ridge-logo-small.png"
+}
+],
+name: "Blue Ridge Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Brandenburg Telephone Company",
+hidden: false,
+id: "bra050",
+loginMode: "AdobePass",
+name: "Brandenburg Telephone Company",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Bristol Tennessee Essential Services (BTES)",
+hidden: false,
+id: "bte010",
+loginMode: "AdobePass",
+name: "Bristol Tennessee Essential Services (BTES)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Broadstripe",
+hidden: false,
+id: "annearundel",
+loginMode: "AdobePass",
+name: "Broadstripe",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Bruce Telephone Company (Celect Communications)",
+hidden: false,
+id: "dem010-02",
+loginMode: "AdobePass",
+name: "Bruce Telephone Company (Celect Communications)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "BTC (Brantley Telephone Company)",
+hidden: false,
+id: "btc040",
+loginMode: "AdobePass",
+name: "BTC (Brantley Telephone Company)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "BTC Communications",
+hidden: false,
+id: "btc010",
+loginMode: "AdobePass",
+name: "BTC Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Buckeye Broadband",
+hidden: false,
+id: "BUCKEYE",
+loginMode: "AdobePass",
+logos: [
+{
+logoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/buckeye-logo.png",
+logoUrlApp: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/buckeye_broadband_application_logo.png",
+logoUrlRegPage: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/buckeye_broadband_registration_logo.png",
+smallLogoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/buckeye-logo-small.png"
+}
+],
+name: "Buckeye Broadband",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Bulloch Telephone Cooperative",
+hidden: false,
+id: "bul010",
+loginMode: "AdobePass",
+name: "Bulloch Telephone Cooperative",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Burlington Telecom (BT)",
+hidden: false,
+id: "burlington_auth-gateway_net",
+loginMode: "AdobePass",
+name: "Burlington Telecom (BT)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Butler-Bremer Communications",
+hidden: false,
+id: "but010",
+loginMode: "AdobePass",
+name: "Butler-Bremer Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "BVU Optinet",
+hidden: false,
+id: "bri030",
+loginMode: "AdobePass",
+name: "BVU Optinet",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "C Spire",
+hidden: false,
+id: "cspire_auth-gateway_net",
+loginMode: "AdobePass",
+name: "C Spire",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "C Spire Fiber",
+hidden: false,
+id: "tel160-csp",
+loginMode: "AdobePass",
+name: "C Spire Fiber",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Cable TV (Stanton, NE)",
+hidden: false,
+id: "cab140",
+loginMode: "AdobePass",
+name: "Cable TV (Stanton, NE)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Cable TV of East Alabama",
+hidden: false,
+id: "phe030",
+loginMode: "AdobePass",
+name: "Cable TV of East Alabama",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "CableAmerica",
+hidden: false,
+id: "cableamerica",
+loginMode: "AdobePass",
+name: "CableAmerica",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Cameron Communications",
+hidden: false,
+id: "car030",
+loginMode: "AdobePass",
+name: "Cameron Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Cam-Tel Company",
+hidden: false,
+id: "weh010-camtel",
+loginMode: "AdobePass",
+name: "Cam-Tel Company",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "DirectLink",
+hidden: false,
+id: "canbytel",
+loginMode: "AdobePass",
+name: "Canby Telcom",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "CapRock TV",
+hidden: false,
+id: "crt020",
+loginMode: "AdobePass",
+name: "CapRock TV",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Carnegie Cable",
+hidden: false,
+id: "car050",
+loginMode: "AdobePass",
+name: "Carnegie Cable",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "CAS Cable",
+hidden: false,
+id: "cas",
+loginMode: "AdobePass",
+name: "CAS Cable",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "CASSCOMM",
+hidden: false,
+id: "casscomm",
+loginMode: "AdobePass",
+name: "CASSCOMM",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "CC Communications",
+hidden: false,
+id: "cccomm",
+loginMode: "AdobePass",
+name: "CC Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "CDE Lightband",
+hidden: false,
+id: "nttccde010",
+loginMode: "AdobePass",
+name: "CDE Lightband",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Cedar Falls Utilities",
+hidden: false,
+id: "cfunet",
+loginMode: "AdobePass",
+name: "Cedar Falls Utilities",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Celect Communications (Spring Valley)",
+hidden: false,
+id: "dem010-04",
+loginMode: "AdobePass",
+name: "Celect Communications (Spring Valley)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Cellcom",
+hidden: false,
+id: "net010-02",
+loginMode: "AdobePass",
+name: "Cellcom",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "CenCom Cable",
+hidden: false,
+id: "nntccencom",
+loginMode: "AdobePass",
+name: "CenCom Cable",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "CentraCom",
+hidden: false,
+id: "cen100",
+loginMode: "AdobePass",
+name: "CentraCom",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "CenturyLink Prism",
+hidden: false,
+id: "auth_centurylink_net",
+loginMode: "AdobePass",
+logos: [
+{
+logoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/centurylink-prism-logo.png",
+logoUrlApp: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/centurylink_application_logo.png",
+logoUrlRegPage: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/centurylink_registration_logo.png",
+smallLogoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/centurylink-prism-logo-small.png"
+}
+],
+name: "CenturyLink",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Spectrum",
+group: "primary",
+hidden: false,
+id: "Charter_Direct",
+loginMode: "AdobePass",
+logos: [
+{
+logoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/charter-logo-white.png",
+logoUrlApp: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/spectrum_application_logo.png",
+logoUrlRegPage: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/spectrum_registration_logo.png",
+smallLogoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/charter-logo-small.png"
+}
+],
+name: "Charter",
+parentalControls: [
+{
+apiKeys: "_default",
+setting: [
+{
+name: "failureMessage"
+},
+{
+name: "modifyMessage"
+}
+]
+},
+{
+apiKeys: "B86CDFBCB9304EF4909BA78061B2E817,29AE3FAC82F34F29B2D1A5EC71C9BEC7,F18FE1B07A2344E6975773DEBBE7112A",
+setting: [
+{
+name: "failureMessage"
+},
+{
+name: "modifyMessage"
+}
+]
+}
+],
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+],
+suppressAccountFields: [
+{
+value: "phoneNum"
+}
+],
+websiteUrl: "https://www.charter.com/browse/content/tv#/Premium-Channels"
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Chatmoss Cablevision",
+hidden: false,
+id: "cha060",
+loginMode: "AdobePass",
+name: "Chatmoss Cablevision",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Chesapeake Bay Communications",
+hidden: false,
+id: "che050",
+loginMode: "AdobePass",
+name: "Chesapeake Bay Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Chippewa Valley Cable",
+hidden: false,
+id: "dur010",
+loginMode: "AdobePass",
+name: "Chippewa Valley Cable",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "CimTel Cable",
+hidden: false,
+id: "cimtel",
+loginMode: "AdobePass",
+name: "CimTel Cable",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Cincinnati Bell",
+hidden: false,
+id: "CBT",
+loginMode: "AdobePass",
+name: "Cincinnati Bell",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Citizens Cablevision (Floyd, VA)",
+hidden: false,
+id: "cit180",
+loginMode: "AdobePass",
+name: "Citizens Cablevision (Floyd, VA)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Citizens Cablevision, Inc. (Higginsville, MO)",
+hidden: false,
+id: "cit210",
+loginMode: "AdobePass",
+name: "Citizens Cablevision, Inc. (Higginsville, MO)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Citizens Connected (Celect Communications)",
+hidden: false,
+id: "dem010-03",
+loginMode: "AdobePass",
+name: "Citizens Connected (Celect Communications)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Citizens Fiber",
+hidden: false,
+id: "cit040",
+loginMode: "AdobePass",
+name: "Citizens Telecom",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Citizens Telephone Corporation",
+hidden: false,
+id: "war040",
+loginMode: "AdobePass",
+name: "Citizens Telephone Corporation",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "CityLink",
+hidden: false,
+id: "wadsworth",
+loginMode: "AdobePass",
+name: "CityLink",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "CL Tel",
+hidden: false,
+id: "nor100",
+loginMode: "AdobePass",
+name: "CL Tel",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Clarence Telephone / Cedar Communications",
+hidden: false,
+id: "cla010",
+loginMode: "AdobePass",
+name: "Clarence Telephone / Cedar Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Clear Choice Communications",
+hidden: false,
+id: "ser060",
+loginMode: "AdobePass",
+name: "Clear Choice Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Clear Creek Communications",
+hidden: false,
+id: "cle020",
+loginMode: "AdobePass",
+name: "Clear Creek Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Click! Cable TV",
+hidden: false,
+id: "tac020",
+loginMode: "AdobePass",
+name: "Click! Cable TV",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Click1.net",
+hidden: false,
+id: "war020",
+loginMode: "AdobePass",
+name: "Click1.net",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Clinton Cable",
+hidden: false,
+id: "cli030",
+loginMode: "AdobePass",
+name: "Clinton Cable",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "CML Telephone Cooperative Association",
+hidden: false,
+id: "cml010",
+loginMode: "AdobePass",
+name: "CML Telephone Cooperative Association",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "CNS (Community Network Services)",
+hidden: false,
+id: "cns",
+loginMode: "AdobePass",
+name: "CNS (Community Network Services)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Coast Communications",
+hidden: false,
+id: "coa020",
+loginMode: "AdobePass",
+name: "Coast Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Coaxial Cable TV",
+hidden: false,
+id: "coa030",
+loginMode: "AdobePass",
+name: "Coaxial Cable TV",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Cobalt TV (Mid-State Community TV)",
+hidden: false,
+id: "mid055",
+loginMode: "AdobePass",
+name: "Cobalt TV (Mid-State Community TV)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Colo Telephone Company",
+hidden: false,
+id: "col090",
+loginMode: "AdobePass",
+name: "Colo Telephone Company",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Columbia Power and Water Systems (CPWS)",
+hidden: false,
+id: "col070",
+loginMode: "AdobePass",
+name: "Columbia Power and Water Systems (CPWS)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Columbus Telephone Company (CTC)",
+hidden: false,
+id: "col080",
+loginMode: "AdobePass",
+name: "Columbus Telephone Company (CTC)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Comcast XFINITY",
+group: "primary",
+hidden: false,
+id: "Comcast_SSO",
+loginMode: "AdobePass",
+logos: [
+{
+logoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/xfinity-logo.png",
+logoUrlApp: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/xfinity_application_logo.png",
+logoUrlRegPage: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/xfinity_registration_logo.png",
+smallLogoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/xfinity-logo-small.png"
+}
+],
+mediaAuthZ: true,
+name: "Comcast",
+properties: [ ],
+services: [
+{ },
+{ }
+],
+websiteUrl: "http://tvgo.xfinity.com/tv-networks/Starz/90/main"
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Comlink",
+hidden: false,
+id: "wbi010",
+loginMode: "AdobePass",
+name: "Comlink",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Comm1",
+hidden: false,
+id: "nor105",
+loginMode: "AdobePass",
+name: "Comm1",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Community Communications Company (CCC Cable)",
+hidden: false,
+id: "com020",
+loginMode: "AdobePass",
+name: "Community Communications Company (CCC Cable)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Co-Mo Connect",
+hidden: false,
+id: "com160",
+loginMode: "AdobePass",
+name: "Co-Mo Connect",
+properties: [ ],
+services: [
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Comporium",
+hidden: false,
+id: "cat020",
+loginMode: "AdobePass",
+name: "Comporium",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Consolidated Cable",
+hidden: false,
+id: "consolidatedcable",
+loginMode: "AdobePass",
+name: "Consolidated Cable",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Consolidated Communications",
+hidden: false,
+id: "consolidated_auth-gateway_net",
+loginMode: "AdobePass",
+logos: [
+{
+logoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/consolidated-logo.png",
+logoUrlApp: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/consolidated_application_logo.png",
+logoUrlRegPage: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/consolidated_registration_logo.png",
+smallLogoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/consolidated-logo-small.png"
+}
+],
+name: "Consolidated Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "CTC - Brainerd MN",
+hidden: false,
+id: "ctc040",
+loginMode: "AdobePass",
+name: "Consolidated Telecommunications Company (CTC)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Conway Corporation",
+hidden: false,
+id: "conwaycorp",
+loginMode: "AdobePass",
+name: "Conway Corporation",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Cox Communications",
+group: "primary",
+hidden: false,
+id: "Cox",
+loginMode: "AdobePass",
+logos: [
+{
+logoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/cox-logo.png",
+logoUrlApp: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/cox_application_logo.png",
+logoUrlRegPage: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/cox_registration_logo.png",
+smallLogoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/cox-logo-small.png"
+}
+],
+name: "Cox",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+],
+websiteUrl: "https://www.cox.com/residential/home.html"
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Craw-Kan",
+hidden: false,
+id: "cra010",
+loginMode: "AdobePass",
+name: "Craw-Kan",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Crestview Cable Communications",
+hidden: false,
+id: "crestview",
+loginMode: "AdobePass",
+name: "Crestview Cable Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Cross",
+hidden: false,
+id: "cross",
+loginMode: "AdobePass",
+name: "Cross",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Crosslake Communications",
+hidden: false,
+id: "cro030",
+loginMode: "AdobePass",
+name: "Crosslake Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "CSi (Cable Services, inc)",
+hidden: false,
+id: "csicable",
+loginMode: "AdobePass",
+name: "CSi (Cable Services, inc)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "CT Communications",
+hidden: false,
+id: "ctcommunications",
+loginMode: "AdobePass",
+name: "CT Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Cunningham Telephone & Cable",
+hidden: false,
+id: "cun010",
+loginMode: "AdobePass",
+name: "Cunningham Telephone & Cable",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "D & P Communications",
+hidden: false,
+id: "dpc010",
+loginMode: "AdobePass",
+name: "D & P Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Dakota Central Telecommunications (Daktel Communications)",
+hidden: false,
+id: "dak030",
+loginMode: "AdobePass",
+name: "Dakota Central Telecommunications (Daktel Communications)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Delcambre Communications",
+hidden: false,
+id: "nttcdel010",
+loginMode: "AdobePass",
+name: "Delcambre Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Delta Telephone Company",
+hidden: false,
+id: "tel160-del",
+loginMode: "AdobePass",
+name: "Delta Telephone Company",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Direct Communications (Independent Cable Systems of Idaho)",
+hidden: false,
+id: "ind060-dc",
+loginMode: "AdobePass",
+name: "Direct Communications (Independent Cable Systems of Idaho)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "DISH",
+group: "primary",
+hidden: false,
+id: "Dish",
+loginMode: "AdobePass",
+logos: [
+{
+logoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/dish-logo.png",
+logoUrlApp: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/dish_application_logo.png",
+logoUrlRegPage: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/dish_registration_logo.png",
+smallLogoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/dish-logo-small.png"
+}
+],
+name: "DISH",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+],
+websiteUrl: "http://www.dish.com/starz/"
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "DIRECTV",
+group: "primary",
+hidden: false,
+id: "DTV",
+loginMode: "AdobePass",
+logos: [
+{
+logoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/dtv-logo-white.png",
+logoUrlApp: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/directv_application_logo.png",
+logoUrlRegPage: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/directv_registration_logo.png",
+smallLogoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/dtv-logo-small.png"
+}
+],
+name: "DTV",
+properties: [ ],
+services: [
+{ },
+{ },
+{ }
+],
+websiteUrl: "http://www.directv.com/premiums/starz"
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Docomo Pacific",
+hidden: false,
+id: "gua020",
+loginMode: "AdobePass",
+name: "Docomo Pacific",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Doylestown Cable TV",
+hidden: false,
+id: "doy010",
+loginMode: "AdobePass",
+name: "Doylestown Cable TV",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "DTC (DeKalb Telephone Cooperative)",
+hidden: false,
+id: "dtc020",
+loginMode: "AdobePass",
+name: "DTC (DeKalb Telephone Cooperative)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Duo County Telecom",
+hidden: false,
+id: "cci010",
+loginMode: "AdobePass",
+name: "Duo County Telecom",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Eagle Communications",
+hidden: false,
+id: "eagle",
+loginMode: "AdobePass",
+name: "Eagle Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "East Arkansas Cable TV",
+hidden: false,
+id: "weh010-east",
+loginMode: "AdobePass",
+name: "East Arkansas Cable TV",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Easton Cable Velocity",
+hidden: false,
+id: "eas050",
+loginMode: "AdobePass",
+name: "Easton Cable Velocity",
+properties: [ ],
+services: [
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "EATEL",
+hidden: false,
+id: "eatel",
+loginMode: "AdobePass",
+name: "EATEL",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Emery Telecom",
+hidden: false,
+id: "emerytelcom",
+loginMode: "AdobePass",
+name: "Emery Telecom",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Endeavor Communications",
+hidden: false,
+id: "endeavor",
+loginMode: "AdobePass",
+name: "Endeavor Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Enhanced Telecommunications Corporation (ETC)",
+hidden: false,
+id: "sun045",
+loginMode: "AdobePass",
+name: "Enhanced Telecommunications Corporation (ETC)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "enTouch",
+hidden: false,
+id: "mid030",
+loginMode: "AdobePass",
+name: "enTouch",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "EPB Fiber Optics",
+hidden: false,
+id: "epb_auth-gateway_net",
+loginMode: "AdobePass",
+name: "EPB Fiber Optics",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "EPB Smartnet",
+hidden: false,
+id: "epb020",
+loginMode: "AdobePass",
+name: "EPB Smartnet",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "EPlus Broadband",
+hidden: false,
+id: "jea010",
+loginMode: "AdobePass",
+name: "EPlus Broadband",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "ETC",
+hidden: false,
+id: "com065",
+loginMode: "AdobePass",
+name: "ETC",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Etex Communications",
+hidden: false,
+id: "ete010",
+loginMode: "AdobePass",
+name: "Etex Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "F&B Communications",
+hidden: false,
+id: "fbc-tele",
+loginMode: "AdobePass",
+name: "F&B Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Falcon Broadband",
+hidden: false,
+id: "fal010",
+loginMode: "AdobePass",
+name: "Falcon Broadband",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "FamilyView CableVision",
+hidden: false,
+id: "fam010",
+loginMode: "AdobePass",
+name: "FamilyView CableVision",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Farmers Telecommunications Cooperative",
+hidden: false,
+id: "farmerstel",
+loginMode: "AdobePass",
+name: "Farmers Telecommunications Cooperative",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Fidelity Communications",
+hidden: false,
+id: "fid010",
+loginMode: "AdobePass",
+name: "Fidelity Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "FiOS TV from Frontier",
+hidden: false,
+id: "frontier",
+loginMode: "AdobePass",
+name: "FiOS TV from Frontier",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "FirstMile Technologies",
+hidden: false,
+id: "firstmile",
+loginMode: "AdobePass",
+name: "FirstMile Technologies",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Flint River Communications",
+hidden: false,
+id: "fli020",
+loginMode: "AdobePass",
+name: "Flint River Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "FMTC (Farmers Mutual Telephone Company)",
+hidden: false,
+id: "far020",
+loginMode: "AdobePass",
+name: "FMTC (Farmers Mutual Telephone Company)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "FPU (Fayetteville Public Utilities)",
+hidden: false,
+id: "fay010",
+loginMode: "AdobePass",
+name: "FPU (Fayetteville Public Utilities)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Frankfort Plant Board",
+hidden: false,
+id: "fbcomm",
+loginMode: "AdobePass",
+name: "Frankfort Plant Board",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Franklin Telephone Company",
+hidden: false,
+id: "tel160-fra",
+loginMode: "AdobePass",
+name: "Franklin Telephone Company",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Frontier Communications",
+group: "primary",
+hidden: false,
+id: "FRONTIER",
+loginMode: "AdobePass",
+logos: [
+{
+logoUrlApp: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/frontiercommunications_application_logo.png",
+logoUrlRegPage: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/frontiercommunications_registration_logo.png"
+}
+],
+name: "Frontier Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "FTC",
+hidden: false,
+id: "nttcftc010",
+loginMode: "AdobePass",
+name: "FTC",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Full Channel",
+hidden: false,
+id: "fullchannel",
+loginMode: "AdobePass",
+name: "Full Channel",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Garden Valley Telephone Company",
+hidden: false,
+id: "gardenvalley",
+loginMode: "AdobePass",
+name: "Garden Valley Telephone Company",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Gardonville Cooperative Telephone Association",
+hidden: false,
+id: "gar040",
+loginMode: "AdobePass",
+name: "Gardonville Cooperative Telephone Association",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "GBT Communications",
+hidden: false,
+id: "gbt010",
+loginMode: "AdobePass",
+name: "GBT Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "GCI",
+hidden: false,
+id: "gci_auth-gateway_net",
+loginMode: "AdobePass",
+logos: [
+{
+logoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/gci-logo-red-white.png",
+logoUrlApp: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/gci_application_logo.png",
+logoUrlRegPage: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/gci_registration_logo.png",
+smallLogoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/gci-logo-small.png"
+}
+],
+name: "GCI",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Giant Communications",
+hidden: false,
+id: "clr010",
+loginMode: "AdobePass",
+name: "Giant Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Glasgow EPB",
+hidden: false,
+id: "gla010",
+loginMode: "AdobePass",
+name: "Glasgow EPB",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Glenwood Telecommunications",
+hidden: false,
+id: "gle010",
+loginMode: "AdobePass",
+name: "Glenwood Telecommunications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "GLW Broadband",
+hidden: false,
+id: "gra060",
+loginMode: "AdobePass",
+name: "GLW Broadband",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Golden West Telecommunications",
+hidden: false,
+id: "goldenwest",
+loginMode: "AdobePass",
+name: "Golden West Telecommunications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Google Fiber",
+hidden: false,
+id: "GoogleFiber",
+loginMode: "AdobePass",
+logos: [
+{
+logoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/google-fiber-logo.png",
+logoUrlApp: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/googlefiber_application_logo1.png",
+logoUrlRegPage: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/googlefiber_registration_logo.png",
+smallLogoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/google-fiber-logo-small.png"
+}
+],
+name: "Google Fiber",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Grafton Cable",
+hidden: false,
+id: "grafton",
+loginMode: "AdobePass",
+name: "Grafton Cable",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Grande Communications",
+hidden: false,
+id: "Grande",
+loginMode: "AdobePass",
+logos: [
+{
+logoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/grande-logo-white.png",
+logoUrlApp: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/grande_application_logo.png",
+logoUrlRegPage: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/grande_registration_logo.png",
+smallLogoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/grande-logo-small.png"
+}
+],
+name: "Grande Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Great Plains Communications",
+hidden: false,
+id: "gpcom",
+loginMode: "AdobePass",
+name: "Great Plains Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Gridley Cable",
+hidden: false,
+id: "gri010",
+loginMode: "AdobePass",
+name: "Gridley Cable",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "GVTC",
+hidden: false,
+id: "gvtc_auth-gateway_net",
+loginMode: "AdobePass",
+name: "GVTC",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Haefele TV",
+hidden: false,
+id: "hae010",
+loginMode: "AdobePass",
+name: "Haefele TV",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Harlan Municipal Utilities",
+hidden: false,
+id: "har005",
+loginMode: "AdobePass",
+name: "Harlan Municipal Utilities",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Hart Communications",
+hidden: false,
+id: "har020",
+loginMode: "AdobePass",
+name: "Hart Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Hawaiian Telcom",
+hidden: false,
+id: "auth_hawaiiantel_net",
+loginMode: "AdobePass",
+name: "Hawaiian Telcom",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "HBC (Hiawatha Broadband Communications)",
+hidden: false,
+id: "hia010",
+loginMode: "AdobePass",
+name: "HBC (Hiawatha Broadband Communications)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Heart of Iowa Communications Cooperative",
+hidden: false,
+id: "hea040",
+loginMode: "AdobePass",
+name: "Heart of Iowa Communications Cooperative",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Hickory Telephone Company",
+hidden: false,
+id: "htc020",
+loginMode: "AdobePass",
+name: "Hickory Telephone Company",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Highland Communication Services",
+hidden: false,
+id: "nttchig010",
+loginMode: "AdobePass",
+name: "Highland Communication Services",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Hinton CATV Company",
+hidden: false,
+id: "hin020",
+loginMode: "AdobePass",
+name: "Hinton CATV Company",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Home Telecom",
+hidden: false,
+id: "hometelecom_auth-gateway_net",
+loginMode: "AdobePass",
+name: "Home Telecom",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "HomeTel Entertainment, Inc.",
+hidden: false,
+id: "hometel",
+loginMode: "AdobePass",
+name: "HomeTel",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Hood Canal Communications",
+hidden: false,
+id: "hoodcanal",
+loginMode: "AdobePass",
+name: "Hood Canal Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Hope Community TV and Prescott Video",
+hidden: false,
+id: "weh010-hope",
+loginMode: "AdobePass",
+name: "Hope Community TV and Prescott Video",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Horizon Cable TV",
+hidden: false,
+id: "horizoncable",
+loginMode: "AdobePass",
+name: "Horizon Cable TV",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Hotwire Communications",
+hidden: false,
+id: "hotwirecommunications_auth-gateway_net",
+loginMode: "AdobePass",
+name: "Hotwire Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "HTC",
+hidden: false,
+id: "htccomm",
+loginMode: "AdobePass",
+name: "HTC",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "HTC Communications Co",
+hidden: false,
+id: "harrison-telco",
+loginMode: "AdobePass",
+name: "HTC Communications Co",
+properties: [ ],
+services: [
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "HTC Digital Cable",
+hidden: false,
+id: "HTC",
+loginMode: "AdobePass",
+name: "HTC Digital Cable",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Huxley Communications",
+hidden: false,
+id: "wal005",
+loginMode: "AdobePass",
+name: "Huxley Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "ImOn",
+hidden: false,
+id: "imon",
+loginMode: "AdobePass",
+name: "ImOn",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Independence Telecommunications",
+hidden: false,
+id: "ind040",
+loginMode: "AdobePass",
+name: "Independence Telecommunications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Inland Networks",
+hidden: false,
+id: "rrc010",
+loginMode: "AdobePass",
+name: "Inland Networks",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Innovative Cable TV (St. Croix, USVI)",
+hidden: false,
+id: "stc020",
+loginMode: "AdobePass",
+name: "Innovative Cable TV (St. Croix, USVI)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Innovative Cable TV (St. Thomas/St. John, USVI)",
+hidden: false,
+id: "car100",
+loginMode: "AdobePass",
+name: "Innovative Cable TV (St. Thomas/St. John, USVI)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Inside Connect Cable",
+hidden: false,
+id: "icc010",
+loginMode: "AdobePass",
+name: "Inside Connect Cable",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Inter Mountain Cable",
+hidden: false,
+id: "int040",
+loginMode: "AdobePass",
+name: "Inter Mountain Cable",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Interstate Telecommunications Cooperative",
+hidden: false,
+id: "int050",
+loginMode: "AdobePass",
+name: "Interstate Telecommunications Cooperative",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Irvine Community Television",
+hidden: false,
+id: "irv010",
+loginMode: "AdobePass",
+name: "Irvine Community Television",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "iTV-3",
+hidden: false,
+id: "itv-bitwise",
+loginMode: "AdobePass",
+name: "iTV-3",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Jackson Energy Authority",
+hidden: false,
+id: "JEA",
+loginMode: "AdobePass",
+name: "Jackson Energy Authority",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Kalida Telephone Company",
+hidden: false,
+id: "kal010",
+loginMode: "AdobePass",
+name: "Kalida Telephone Company",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Kalona Cooperative Telephone Company",
+hidden: false,
+id: "kal030",
+loginMode: "AdobePass",
+name: "Kalona Cooperative Telephone Company",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "KMTelecom",
+hidden: false,
+id: "kmt010",
+loginMode: "AdobePass",
+name: "KMTelecom",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "KPU Telecommunications",
+hidden: false,
+id: "kpu010",
+loginMode: "AdobePass",
+name: "KPU Telecommunications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Kuhn Communications, Inc.",
+hidden: false,
+id: "kuh010",
+loginMode: "AdobePass",
+name: "Kuhn Communications, Inc.",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Langco Cable TV",
+hidden: false,
+id: "lan010",
+loginMode: "AdobePass",
+name: "Langco Cable TV",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Laurel Highland Total Communications",
+hidden: false,
+id: "lau020",
+loginMode: "AdobePass",
+name: "Laurel Highland Total Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Limestone & Bracken Cablevision",
+hidden: false,
+id: "bra010",
+loginMode: "AdobePass",
+name: "Limestone & Bracken Cablevision",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Litestream",
+hidden: false,
+id: "lit020",
+loginMode: "AdobePass",
+name: "Litestream",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "LivCom (Livingston Communications)",
+hidden: false,
+id: "tel140",
+loginMode: "AdobePass",
+name: "LivCom (Livingston Communications)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "LocalTel Communications",
+hidden: false,
+id: "loc010",
+loginMode: "AdobePass",
+name: "LocalTel Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Longview and Kilgore Cable TV",
+hidden: false,
+id: "weh010-longview",
+loginMode: "AdobePass",
+name: "Longview and Kilgore Cable TV",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Lost Nation-Elwood Telephone Company",
+hidden: false,
+id: "lns010",
+loginMode: "AdobePass",
+name: "Lost Nation-Elwood Telephone Company",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "LPC Connect (La Porte City)",
+hidden: false,
+id: "nttclpc010",
+loginMode: "AdobePass",
+name: "LPC Connect (La Porte City)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Lumos Networks",
+hidden: false,
+id: "lumos",
+loginMode: "AdobePass",
+name: "Lumos Networks",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "LUS Fiber",
+hidden: false,
+id: "lus010",
+loginMode: "AdobePass",
+name: "LUS Fiber",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Madison Communications",
+hidden: false,
+id: "madison",
+loginMode: "AdobePass",
+name: "Madison Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Madison County Cable",
+hidden: false,
+id: "mad030",
+loginMode: "AdobePass",
+name: "Madison County Cable",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Marne Elk Horn Telephone",
+hidden: false,
+id: "mar010",
+loginMode: "AdobePass",
+name: "Marne Elk Horn Telephone",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "MaxxSouth Broadband",
+hidden: false,
+id: "MAXXSOUTH",
+loginMode: "AdobePass",
+name: "MaxxSouth Broadband",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "McClure Telephone (MCTEL)",
+hidden: false,
+id: "mcc040",
+loginMode: "AdobePass",
+name: "McClure Telephone (MCTEL)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "MCTV",
+hidden: false,
+id: "mctv",
+loginMode: "AdobePass",
+name: "MCTV",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Mediacom",
+group: "primary",
+hidden: false,
+id: "Mediacom",
+loginMode: "AdobePass",
+logos: [
+{
+logoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/mediacom-logo.png",
+logoUrlApp: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/mediacom_application_logo.png",
+logoUrlRegPage: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/mediacom_registration_logo.png",
+smallLogoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/mediacom-logo-small.png"
+}
+],
+name: "Mediacom",
+properties: [ ],
+services: [
+{ },
+{ },
+{ }
+],
+websiteUrl: "https://mediacomcable.com/site/index.html"
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Merrimac Communications",
+hidden: false,
+id: "merrimac",
+loginMode: "AdobePass",
+name: "Merrimac Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "MetroCast",
+hidden: false,
+id: "auth_metrocast_net",
+loginMode: "AdobePass",
+logos: [
+{
+logoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/metrocast-logo.png",
+logoUrlApp: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/metrocast_application_logo.png",
+logoUrlRegPage: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/metrocast_registration_logo.png",
+smallLogoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/metrocast-logo-small.png"
+}
+],
+name: "MetroCast",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Metronet",
+hidden: false,
+id: "metronet",
+loginMode: "AdobePass",
+name: "Metronet",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "MHTC",
+hidden: false,
+id: "mhtc",
+loginMode: "AdobePass",
+name: "MHTC",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Continuum",
+hidden: false,
+id: "MICONNECTION",
+loginMode: "AdobePass",
+name: "MI-Connection",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Midco",
+hidden: false,
+id: "msauth_midco_net",
+loginMode: "AdobePass",
+logos: [
+{
+logoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/midco-logo.png",
+logoUrlApp: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/midco_application_logo.png",
+logoUrlRegPage: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/midco_registration_logo.png",
+smallLogoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/midco-logo-small.png"
+}
+],
+name: "Midco",
+properties: [ ],
+services: [
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Mid-Hudson Cable",
+hidden: false,
+id: "midhudson",
+loginMode: "AdobePass",
+name: "Mid-Hudson Cable",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Mid-Plains Communications",
+hidden: false,
+id: "midplains",
+loginMode: "AdobePass",
+name: "Mid-Plains Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Mid-Rivers Communications",
+hidden: false,
+id: "midrivers",
+loginMode: "AdobePass",
+name: "Mid-Rivers Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Midstate Communications",
+hidden: false,
+id: "mid045",
+loginMode: "AdobePass",
+name: "Midstate Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Milford Communications",
+hidden: false,
+id: "mil080",
+loginMode: "AdobePass",
+name: "Milford Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "MTA",
+hidden: false,
+id: "mtacomm",
+loginMode: "AdobePass",
+name: "MTA",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "MTC (Margaretville Telephone Company)",
+hidden: false,
+id: "mtc010",
+loginMode: "AdobePass",
+name: "MTC (Margaretville Telephone Company)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "MTC Technologies",
+hidden: false,
+id: "med040",
+loginMode: "AdobePass",
+name: "MTC Technologies",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "MTCC",
+hidden: false,
+id: "man060",
+loginMode: "AdobePass",
+name: "MTCC",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Mulberry Telecommunications",
+hidden: false,
+id: "mul050",
+loginMode: "AdobePass",
+name: "Mulberry Telecommunications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "MUS (Morristown Utility Systems)",
+hidden: false,
+id: "musfiber",
+loginMode: "AdobePass",
+name: "MUS (Morristown Utility Systems)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Muscatine Power & Water",
+hidden: false,
+id: "mpw",
+loginMode: "AdobePass",
+name: "Muscatine Power & Water",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "myEVTV.com (Slic Network Solutions)",
+hidden: false,
+id: "nttcsli010",
+loginMode: "AdobePass",
+name: "myEVTV.com (Slic Network Solutions)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "NCTC (Nebraska Central Telecom)",
+hidden: false,
+id: "nctc",
+loginMode: "AdobePass",
+name: "NCTC (Nebraska Central Telecom)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Nelson Telephone Cooperative",
+hidden: false,
+id: "dur010-nel",
+loginMode: "AdobePass",
+name: "Nelson Telephone Cooperative",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Nemont",
+hidden: false,
+id: "nem010",
+loginMode: "AdobePass",
+name: "Nemont",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "New Hope Telephone Cooperative (NHTC)",
+hidden: false,
+id: "new075",
+loginMode: "AdobePass",
+name: "New Hope Telephone Cooperative (NHTC)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "NewWave Communications",
+hidden: false,
+id: "nwcable_auth-gateway_net",
+loginMode: "AdobePass",
+logos: [
+{
+logoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/newwave-logo.png",
+logoUrlApp: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/newwave_application_logo.png",
+logoUrlRegPage: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/newwave_registration_logo.png",
+smallLogoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/newwave-logo-small.png"
+}
+],
+name: "NewWave Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Nex-Tech",
+hidden: false,
+id: "nextech_auth-gateway_net",
+loginMode: "AdobePass",
+name: "Nex-Tech",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "NICP",
+hidden: false,
+id: "nor240",
+loginMode: "AdobePass",
+name: "NICP",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "NineStar Connect",
+hidden: false,
+id: "cic010",
+loginMode: "AdobePass",
+name: "NineStar Connect",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "NKTelco",
+hidden: false,
+id: "nktelco",
+loginMode: "AdobePass",
+name: "NKTelco",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Nortex Communications",
+hidden: false,
+id: "nortex",
+loginMode: "AdobePass",
+name: "Nortex Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "North Central Telephone Cooperative (NCTC)",
+hidden: false,
+id: "nor140",
+loginMode: "AdobePass",
+name: "North Central Telephone Cooperative (NCTC)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "North State",
+hidden: false,
+id: "NORTHSTATE",
+loginMode: "AdobePass",
+name: "North State",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Northland Communications",
+hidden: false,
+id: "nor030",
+loginMode: "AdobePass",
+name: "Northland Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Northwest Communications",
+hidden: false,
+id: "nor075",
+loginMode: "AdobePass",
+name: "Northwest Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Norwood Light Broadband",
+hidden: false,
+id: "nor125",
+loginMode: "AdobePass",
+name: "Norwood Light Broadband",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Nsight Telservices",
+hidden: false,
+id: "net010",
+loginMode: "AdobePass",
+name: "Nsight Telservices",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "NuLink",
+hidden: false,
+id: "nulink",
+loginMode: "AdobePass",
+name: "NuLink",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "NU-Telecom",
+hidden: false,
+id: "new045",
+loginMode: "AdobePass",
+name: "NU-Telecom",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Omnitel Communications (OmniTelevision)",
+hidden: false,
+id: "far035",
+loginMode: "AdobePass",
+name: "Omnitel Communications (OmniTelevision)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "OneSource Communications",
+hidden: false,
+id: "onesource",
+loginMode: "AdobePass",
+name: "OneSource Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Opelika Power Services (OPS)",
+hidden: false,
+id: "cit230",
+loginMode: "AdobePass",
+name: "Opelika Power Services (OPS)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "OptiLink",
+hidden: false,
+id: "daltonutilities",
+loginMode: "AdobePass",
+name: "OptiLink",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Optimum",
+group: "primary",
+hidden: false,
+id: "Cablevision",
+loginMode: "AdobePass",
+logos: [
+{
+logoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/cablevision-optimum-logo-white.png",
+logoUrlApp: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/optimum_application_logo.png",
+logoUrlRegPage: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/optimum_registration_logo.png",
+smallLogoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/cablevision-optimum-logo-small.png"
+}
+],
+name: "Optimum",
+properties: [ ],
+services: [
+{ },
+{ },
+{ }
+],
+websiteUrl: "https://www.optimum.net/pricing-packages"
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Orbitel Communications",
+hidden: false,
+id: "ORBITEL",
+loginMode: "AdobePass",
+name: "Orbitel Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "OTEC Communications Company",
+hidden: false,
+id: "ote010",
+loginMode: "AdobePass",
+name: "OTEC Communications Company",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "PAC-12 Enterprises",
+hidden: false,
+id: "pac12enterprises",
+loginMode: "AdobePass",
+name: "PAC-12 Enterprises",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Packerland Broadband",
+hidden: false,
+id: "cci020",
+loginMode: "AdobePass",
+name: "Packerland Broadband",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Park Region Telephone & Otter Tail Telcom",
+hidden: false,
+id: "otter",
+loginMode: "AdobePass",
+name: "Park Region Telephone & Otter Tail Telcom",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Partner Communications Cooperative",
+hidden: false,
+id: "mid050",
+loginMode: "AdobePass",
+name: "Partner Communications Cooperative",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Paul Bunyan Communications",
+hidden: false,
+id: "paulbunyan",
+loginMode: "AdobePass",
+name: "Paul Bunyan Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Pembroke Telephone Company",
+hidden: false,
+id: "pem020",
+loginMode: "AdobePass",
+name: "Pembroke Telephone Company",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Peoples Rural Telephone Cooperative",
+hidden: false,
+id: "mck010",
+loginMode: "AdobePass",
+name: "Peoples Rural Telephone Cooperative",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "PES Energize",
+hidden: false,
+id: "pul010",
+loginMode: "AdobePass",
+name: "PES Energize",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Philippi Communications System",
+hidden: false,
+id: "phi010",
+loginMode: "AdobePass",
+name: "Philippi Communications System",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Phonoscope Cable",
+hidden: false,
+id: "phonoscope",
+loginMode: "AdobePass",
+name: "Phonoscope Cable",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Pine Bluff Cable TV",
+hidden: false,
+id: "weh010-pine",
+loginMode: "AdobePass",
+name: "Pine Bluff Cable TV",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Pineland Telephone Cooperative",
+hidden: false,
+id: "pin060",
+loginMode: "AdobePass",
+name: "Pineland Telephone Cooperative",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Pinpoint Communications",
+hidden: false,
+id: "cam010",
+loginMode: "AdobePass",
+name: "Pinpoint Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Pioneer Communications",
+hidden: false,
+id: "pioncomm",
+loginMode: "AdobePass",
+name: "Pioneer Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Pioneer DTV",
+hidden: false,
+id: "pioneer",
+loginMode: "AdobePass",
+name: "Pioneer DTV",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "PLWC (Paragould Light Water and Cable)",
+hidden: false,
+id: "par010",
+loginMode: "AdobePass",
+name: "PLWC (Paragould Light Water and Cable)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Pottawatomie Telephone Company",
+hidden: false,
+id: "pottawatomie",
+loginMode: "AdobePass",
+name: "Pottawatomie Telephone Company",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Premier Communications",
+hidden: false,
+id: "premiercomm",
+loginMode: "AdobePass",
+name: "Premier Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "PSC",
+hidden: false,
+id: "psc010",
+loginMode: "AdobePass",
+name: "PSC",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "PTCI",
+hidden: false,
+id: "pan020",
+loginMode: "AdobePass",
+name: "PTCI",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "QCOL",
+hidden: false,
+id: "qco010",
+loginMode: "AdobePass",
+name: "QCOL",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Rainier Connect",
+hidden: false,
+id: "rai030",
+loginMode: "AdobePass",
+name: "Rainier Connect",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Ralls Technologies",
+hidden: false,
+id: "ral010",
+loginMode: "AdobePass",
+name: "Ralls Technologies",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Randolph Telephone",
+hidden: false,
+id: "randolph",
+loginMode: "AdobePass",
+name: "Randolph Telephone",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "RCN",
+hidden: false,
+id: "RCN",
+loginMode: "AdobePass",
+logos: [
+{
+logoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/rcn-logo.png",
+logoUrlApp: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/rcn_application_logo.png",
+logoUrlRegPage: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/rcn_registration_logo.png",
+smallLogoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/rcn-logo-small.png"
+}
+],
+name: "RCN",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Red River Communications",
+hidden: false,
+id: "red040",
+loginMode: "AdobePass",
+name: "Red River Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Reedsburg Utility Commission",
+hidden: false,
+id: "ree010",
+loginMode: "AdobePass",
+name: "Reedsburg Utility Commission",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Reliance Connects",
+hidden: false,
+id: "mol010",
+loginMode: "AdobePass",
+name: "Reliance Connects",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Reserve Telecommunications (RTC)",
+hidden: false,
+id: "res020",
+loginMode: "AdobePass",
+name: "Reserve Telecommunications (RTC)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Resort TV Cable",
+hidden: false,
+id: "weh010-resort",
+loginMode: "AdobePass",
+name: "Resort TV Cable",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "River Valley Telecommunications Coop",
+hidden: false,
+id: "riv030",
+loginMode: "AdobePass",
+name: "River Valley Telecommunications Coop",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "RMA Broadband & Cable TV",
+hidden: false,
+id: "rma",
+loginMode: "AdobePass",
+name: "RMA Broadband & Cable TV",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Rock Port Cablevision",
+hidden: false,
+id: "rockportcable",
+loginMode: "AdobePass",
+name: "Rock Port Cablevision",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "RTC Communications",
+hidden: false,
+id: "rtc",
+loginMode: "AdobePass",
+name: "RTC Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "RTEC Communications (Ridgeville Telephone)",
+hidden: false,
+id: "rte010",
+loginMode: "AdobePass",
+name: "RTEC Communications (Ridgeville Telephone)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "S&T Telephone Coop Association",
+hidden: false,
+id: "stc010",
+loginMode: "AdobePass",
+name: "S&T Telephone Coop Association",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "SCI Broadband",
+hidden: false,
+id: "sav010",
+loginMode: "AdobePass",
+name: "SCI Broadband",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Scottsboro Electric Power Board",
+hidden: false,
+id: "sco050",
+loginMode: "AdobePass",
+name: "Scottsboro Electric Power Board",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "SELCO (Shrewsbury Electric & Cable Operations)",
+hidden: false,
+id: "selco",
+loginMode: "AdobePass",
+name: "SELCO (Shrewsbury Electric & Cable Operations)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Service Electric Cable TV and Communications",
+hidden: false,
+id: "service-electric",
+loginMode: "AdobePass",
+name: "Service Electric Cable TV and Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Service Electric Cablevision",
+hidden: false,
+id: "serviceelectric_auth-gateway_net",
+loginMode: "AdobePass",
+logos: [
+{
+logoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/service-electric-logo.png",
+logoUrlApp: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/secv_application_logo.png",
+logoUrlRegPage: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/secv_registration_logo.png",
+smallLogoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/service-electric-logo-small.png"
+}
+],
+name: "Service Electric Cablevision",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Shentel",
+hidden: false,
+id: "she010",
+loginMode: "AdobePass",
+name: "Shentel",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Sherwood Mutual Telephone Association, Inc.",
+hidden: false,
+id: "she030",
+loginMode: "AdobePass",
+name: "Sherwood Mutual Telephone Association, Inc.",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Silver Star Communications",
+hidden: false,
+id: "ind060-ssc",
+loginMode: "AdobePass",
+name: "Silver Star Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Sjoberg's Cable TV",
+hidden: false,
+id: "sjoberg",
+loginMode: "AdobePass",
+name: "Sjoberg's Cable TV",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "SKT (Southern Kansas Telephone)",
+hidden: false,
+id: "sou025",
+loginMode: "AdobePass",
+name: "SKT (Southern Kansas Telephone)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "SkyBest TV",
+hidden: false,
+id: "sky050",
+loginMode: "AdobePass",
+name: "SkyBest TV",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Smithville Communications",
+hidden: false,
+id: "nttcsmi010",
+loginMode: "AdobePass",
+name: "Smithville Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Solarus (Wood County Telephone Co.)",
+hidden: false,
+id: "woo010",
+loginMode: "AdobePass",
+name: "Solarus (Wood County Telephone Co.)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "South Central Rural Telephone Cooperative",
+hidden: false,
+id: "sou075",
+loginMode: "AdobePass",
+name: "South Central Rural Telephone Cooperative",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "South Holt Cablevision / OFM (Oregon Farmers Mutual Telephone Company)",
+hidden: false,
+id: "sou065",
+loginMode: "AdobePass",
+name: "South Holt Cablevision / OFM (Oregon Farmers Mutual Telephone Company)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "South Slope",
+hidden: false,
+id: "sou035",
+loginMode: "AdobePass",
+name: "South Slope",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Hilliary Communications",
+hidden: false,
+id: "spc010",
+loginMode: "AdobePass",
+name: "Southern Plains Cable",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Spencer Municipal Utilities",
+hidden: false,
+id: "spe010",
+loginMode: "AdobePass",
+name: "Spencer Municipal Utilities",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Spillway Communications",
+hidden: false,
+id: "spi005",
+loginMode: "AdobePass",
+name: "Spillway Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "SRT Communications",
+hidden: false,
+id: "srt010",
+loginMode: "AdobePass",
+name: "SRT Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "St. Maarten Cable TV (Innovative SXM Cable)",
+hidden: false,
+id: "cccsmc010",
+loginMode: "AdobePass",
+name: "St. Maarten Cable TV (Innovative SXM Cable)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "STRATA Networks",
+hidden: false,
+id: "uin010",
+loginMode: "AdobePass",
+name: "STRATA Networks",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Suddenlink",
+group: "primary",
+hidden: false,
+id: "Suddenlink",
+loginMode: "AdobePass",
+logos: [
+{
+logoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/suddenlink-logo.png",
+logoUrlApp: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/suddenlink_application_logo.png",
+logoUrlRegPage: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/suddenlink_registration_logo.png",
+smallLogoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/suddenlink-logo-small.png"
+}
+],
+name: "Suddenlink",
+properties: [ ],
+services: [
+{ },
+{ },
+{ }
+],
+websiteUrl: "http://www.suddenlink.com/"
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Sumner Communications",
+hidden: false,
+id: "sum010",
+loginMode: "AdobePass",
+name: "Sumner Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Surry TV",
+hidden: false,
+id: "pie010",
+loginMode: "AdobePass",
+name: "Surry TV",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Sweetwater Cable TV",
+hidden: false,
+id: "sweetwater",
+loginMode: "AdobePass",
+name: "Sweetwater Cable TV",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Swiftel",
+hidden: false,
+id: "nrtcswi010",
+loginMode: "AdobePass",
+name: "Swiftel",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Tahlequah Cable TV",
+hidden: false,
+id: "weh010-talequah",
+loginMode: "AdobePass",
+name: "Tahlequah Cable TV",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "TCA (The Community Agency)",
+hidden: false,
+id: "com050",
+loginMode: "AdobePass",
+name: "TCA (The Community Agency)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "TCT",
+hidden: false,
+id: "tct",
+loginMode: "AdobePass",
+name: "TCT",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "TDS",
+hidden: false,
+id: "tds_auth-gateway_net",
+loginMode: "AdobePass",
+name: "TDS",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Tele-Media",
+hidden: false,
+id: "tel050",
+loginMode: "AdobePass",
+name: "Tele-Media",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Trenton TV Cable Company",
+hidden: false,
+id: "tre010",
+loginMode: "AdobePass",
+name: "Trenton TV Cable Company",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Tri-County Communications Cooperative",
+hidden: false,
+id: "tcc",
+loginMode: "AdobePass",
+name: "Tri-County Communications Cooperative",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "TrioTel Communications",
+hidden: false,
+id: "tri110",
+loginMode: "AdobePass",
+name: "TrioTel Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Troy Cablevision",
+hidden: false,
+id: "tro010",
+loginMode: "AdobePass",
+name: "Troy Cablevision",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "TruVista",
+hidden: false,
+id: "auth_truvista_net",
+loginMode: "AdobePass",
+name: "TruVista",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "TSC",
+hidden: false,
+id: "tsc",
+loginMode: "AdobePass",
+name: "TSC",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Tullahoma Utilities Board",
+hidden: false,
+id: "cit220",
+loginMode: "AdobePass",
+name: "Tullahoma Utilities Board",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "TVC / Lennon Telephone Company",
+hidden: false,
+id: "tvc015",
+loginMode: "AdobePass",
+name: "TVC / Lennon Telephone Company",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "TVision / RTC (Rye Telephone Company)",
+hidden: false,
+id: "cab180",
+loginMode: "AdobePass",
+name: "TVision / RTC (Rye Telephone Company)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Twin Lakes",
+hidden: false,
+id: "twi040",
+loginMode: "AdobePass",
+name: "Twin Lakes",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Twin Valley",
+hidden: false,
+id: "tvtinc",
+loginMode: "AdobePass",
+name: "Twin Valley",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Union Telephone Company",
+hidden: false,
+id: "uis010",
+loginMode: "AdobePass",
+name: "Union Telephone Company",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "United Communications",
+hidden: false,
+id: "unitedtel",
+loginMode: "AdobePass",
+name: "United Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "United Fiber (United Services)",
+hidden: false,
+id: "uni120",
+loginMode: "AdobePass",
+name: "United Fiber (United Services)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "US Sonet",
+hidden: false,
+id: "uss020",
+loginMode: "AdobePass",
+name: "US Sonet",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "USA Communications",
+hidden: false,
+id: "cab060",
+loginMode: "AdobePass",
+name: "USA Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "USA Communications (Shellsburg, IA)",
+hidden: false,
+id: "she005",
+loginMode: "AdobePass",
+name: "USA Communications (Shellsburg, IA)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Valley Telecommunications",
+hidden: false,
+id: "val025",
+loginMode: "AdobePass",
+name: "Valley Telecommunications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Valparaiso Broadband",
+hidden: false,
+id: "val030",
+loginMode: "AdobePass",
+name: "Valparaiso Broadband",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "ValuNet",
+hidden: false,
+id: "valunet",
+loginMode: "AdobePass",
+name: "ValuNet",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Vast Broadband",
+hidden: false,
+id: "cla050",
+loginMode: "AdobePass",
+name: "Vast Broadband",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Venture Communications Cooperative",
+hidden: false,
+id: "sul015",
+loginMode: "AdobePass",
+name: "Venture Communications Cooperative",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Verizon FiOS",
+group: "primary",
+hidden: false,
+id: "Verizon",
+loginMode: "AdobePass",
+logos: [
+{
+logoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/verizon-fios-logo-white.png",
+logoUrlApp: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/verizon_application_logo.png",
+logoUrlRegPage: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/verizon_registration_logo.png",
+smallLogoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/verizon-fios-logo-small.png"
+}
+],
+name: "Verizon",
+properties: [ ],
+services: [
+{ },
+{ },
+{ }
+],
+websiteUrl: "http://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx"
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Vernon Communications",
+hidden: false,
+id: "ver025",
+loginMode: "AdobePass",
+name: "Vernon Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Vicksburg Video",
+hidden: false,
+id: "weh010-vicksburg",
+loginMode: "AdobePass",
+name: "Vicksburg Video",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Vision Communications",
+hidden: false,
+id: "vis070",
+loginMode: "AdobePass",
+name: "Vision Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Volcano Vision",
+hidden: false,
+id: "volcanotel",
+loginMode: "AdobePass",
+name: "Volcano Vision",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "VolFirst",
+hidden: false,
+id: "vol040-02",
+loginMode: "AdobePass",
+name: "VolFirst",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Vyve Broadband (formerly Allegiance)",
+hidden: false,
+id: "bci010",
+loginMode: "AdobePass",
+name: "Vyve Broadband (formerly Allegiance)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Vyve Broadband (formerly Mediastream)",
+hidden: false,
+id: "bci010-02",
+loginMode: "AdobePass",
+name: "Vyve Broadband (formerly Mediastream)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Wabash Mutual Telephone",
+hidden: false,
+id: "wab020",
+loginMode: "AdobePass",
+name: "Wabash Mutual Telephone",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Waitsfield Cable",
+hidden: false,
+id: "waitsfield",
+loginMode: "AdobePass",
+name: "Waitsfield Cable",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Walnut Communications",
+hidden: false,
+id: "wal010",
+loginMode: "AdobePass",
+name: "Walnut Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Wave Broadband",
+hidden: false,
+id: "wavebroadband",
+loginMode: "AdobePass",
+logos: [
+{
+logoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/wave-broadband-logo-white.png",
+logoUrlApp: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/wave_application_logo.png",
+logoUrlRegPage: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/wave_registration_logo.png",
+smallLogoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/wave-broadband-logo-small.png"
+}
+],
+name: "Wave Broadband",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "WCTA (Winnebago Cooperative Telecom Association)",
+hidden: false,
+id: "wcta",
+loginMode: "AdobePass",
+name: "WCTA (Winnebago Cooperative Telecom Association)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "West Alabama TV Cable",
+hidden: false,
+id: "wes005",
+loginMode: "AdobePass",
+name: "West Alabama TV Cable",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "West Carolina Communications",
+hidden: false,
+id: "carolinata",
+loginMode: "AdobePass",
+name: "West Carolina Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "West Central Telephone Association",
+hidden: false,
+id: "wct010",
+loginMode: "AdobePass",
+name: "West Central Telephone Association",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "West River Cooperative Telephone Company",
+hidden: false,
+id: "wes110",
+loginMode: "AdobePass",
+name: "West River Cooperative Telephone Company",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "West Wisconsin Telcom (Celect Communications)",
+hidden: false,
+id: "dem010-05",
+loginMode: "AdobePass",
+name: "West Wisconsin Telcom (Celect Communications)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Westcom Broadband",
+hidden: false,
+id: "Westcom",
+loginMode: "AdobePass",
+name: "Westcom Broadband",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "WesTel Systems",
+hidden: false,
+id: "ani030",
+loginMode: "AdobePass",
+name: "WesTel Systems",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Western Iowa Networks",
+hidden: false,
+id: "westianet",
+loginMode: "AdobePass",
+name: "Western Iowa Networks",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Whidbey Telecom",
+hidden: false,
+id: "nttcwhi010",
+loginMode: "AdobePass",
+name: "Whidbey Telecom",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "White County Cable TV",
+hidden: false,
+id: "weh010-white",
+loginMode: "AdobePass",
+name: "White County Cable TV",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Wilson Communications",
+hidden: false,
+id: "wil015",
+loginMode: "AdobePass",
+name: "Wilson Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Windomnet",
+hidden: false,
+id: "win010",
+loginMode: "AdobePass",
+name: "Windomnet",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Windstream Communications",
+hidden: false,
+id: "win090",
+loginMode: "AdobePass",
+name: "Windstream Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Windstream Kinetic TV",
+hidden: false,
+id: "WINDSTREAM",
+loginMode: "AdobePass",
+name: "Windstream Kinetic TV",
+properties: [ ],
+services: [
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "WTC Communications",
+hidden: false,
+id: "wtc010",
+loginMode: "AdobePass",
+name: "WTC Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "WTC Communications, Inc./Wilton",
+hidden: false,
+id: "wil040",
+loginMode: "AdobePass",
+name: "WTC Communications, Inc./Wilton",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Yadtel Telecom",
+hidden: false,
+id: "yadtel",
+loginMode: "AdobePass",
+name: "Yadtel Telecom",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Zito Media",
+hidden: false,
+id: "cou060",
+loginMode: "AdobePass",
+name: "Zito Media",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "STARZ Guests",
+hidden: false,
+id: "STARZ PLAY guests",
+loginMode: "DigitalLocker",
+logos: [
+{
+logoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/starz-play-guests-logo.png",
+logoUrlApp: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/vipguest_application_logo.png",
+logoUrlRegPage: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/VIP_guest_vip_white_registration_logo.png",
+smallLogoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/movieplex-play-guests-logo-small.png"
+}
+],
+name: "STARZ Play Guests",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "ENCORE Play Guests",
+hidden: false,
+id: "ENCORE PLAY guests",
+loginMode: "DigitalLocker",
+logos: [
+{
+logoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/encore-play-guests-logo.png",
+logoUrlApp: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/vipguest_application_logo.png",
+logoUrlRegPage: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/VIP_guest_vip_white_registration_logo.png",
+smallLogoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/encore-play-guests-logo-small.png"
+}
+],
+name: "ENCORE Play Guests",
+properties: [ ],
+services: [
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "MOVIEPLEX Play Guests",
+hidden: false,
+id: "MOVIEPLEX PLAY guests",
+loginMode: "DigitalLocker",
+logos: [
+{
+logoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/starz-play-guests-logo.png",
+logoUrlApp: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/vipguest_application_logo.png",
+logoUrlRegPage: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/VIP_guest_vip_white_registration_logo.png",
+smallLogoUrl: "http://playauthcontent.starz.com/Prod/affiliates/assets/starz-play-guests-logo-small.png"
+}
+],
+name: "MOVIEPLEX Play Guests",
+properties: [ ],
+services: [
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "BSD Communications",
+hidden: false,
+id: "Apple",
+loginMode: "DigitalLocker",
+name: "iTunes",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "BSD Fiber Cooperative",
+hidden: false,
+id: "Google",
+loginMode: "DigitalLocker",
+name: "GooglePlay",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "BSD Intermountain",
+hidden: false,
+id: "StarzDev",
+loginMode: "DigitalLocker",
+name: "StarzDev",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "BSD Telephony",
+hidden: false,
+id: "Amazon",
+loginMode: "DigitalLocker",
+name: "Amazon",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "BSD Broadband",
+hidden: false,
+id: "Roku",
+loginMode: "DigitalLocker",
+name: "Roku",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "VTel",
+hidden: false,
+id: "ver070",
+loginMode: "AdobePass",
+name: "Vtel (Vermont Telephone)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "TriCounty Telecom",
+hidden: false,
+id: "tri025",
+loginMode: "AdobePass",
+name: "TriCounty Telecom",
+properties: [ ],
+services: [
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "MLGC",
+hidden: false,
+id: "mlg010",
+loginMode: "AdobePass",
+name: "MLGC, Inc.",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Mountain Telephone",
+hidden: false,
+id: "mou110",
+loginMode: "AdobePass",
+name: "Mountain Rural Telephone",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Adams Cable Service",
+hidden: false,
+id: "ada020",
+loginMode: "AdobePass",
+name: "Adams Cable Service",
+properties: [ ],
+services: [
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Star Communications",
+hidden: false,
+id: "sta025",
+loginMode: "AdobePass",
+name: "Star Communications (Starvision Inc.)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "RS Fiber",
+hidden: false,
+id: "rsf010",
+loginMode: "AdobePass",
+name: "RS Fiber",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Valley TeleCom Group",
+hidden: false,
+id: "val040",
+loginMode: "AdobePass",
+name: "Valley TeleCom Group",
+properties: [ ],
+services: [
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Trans-Video",
+hidden: false,
+id: "tra010",
+loginMode: "AdobePass",
+name: "Trans-Video",
+properties: [ ],
+services: [
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Lonsdale Video Ventures",
+hidden: false,
+id: "lon030",
+loginMode: "AdobePass",
+name: "Lonsdale Video Ventures, LLC",
+properties: [ ],
+services: [
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Home Town Communications",
+hidden: false,
+id: "hometowncable_auth-gateway_net",
+loginMode: "AdobePass",
+name: "Home Town Cable TV, LLC",
+properties: [ ],
+services: [
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Liberty Cablevision of PR",
+hidden: false,
+id: "lib040",
+loginMode: "AdobePass",
+name: "Liberty Cablevision of PR",
+properties: [ ],
+services: [
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Plateau Telecommunications",
+hidden: false,
+id: "nrtcpla010",
+loginMode: "AdobePass",
+name: "Plateau Telecommunications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "BSD Connect",
+hidden: false,
+id: "Recurly",
+loginMode: "DigitalLocker",
+name: "Recurly",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "DIRECTV Puerto Rico",
+hidden: false,
+id: "DTVPR",
+loginMode: "AdobePass",
+name: "DIRECTV Puerto Rico",
+properties: [ ],
+services: [
+{ },
+{ },
+{ }
+],
+websiteUrl: "http://www.directvpr.com/programacion/starz/"
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "BSD Kaizen",
+hidden: false,
+id: "Samsung",
+loginMode: "DigitalLocker",
+name: "Samsung",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Swayzee Communications",
+hidden: false,
+id: "swa010",
+loginMode: "AdobePass",
+name: "Swayzee Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Complete Communication Services",
+hidden: false,
+id: "com025",
+loginMode: "AdobePass",
+name: "Complete Communication Services",
+properties: [ ],
+services: [
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "NDTC (North Dakota Telephone Company)",
+hidden: false,
+id: "nor260",
+loginMode: "AdobePass",
+name: "NDTC (North Dakota Telephone Company)",
+properties: [ ],
+services: [
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "MTCO Communications",
+hidden: false,
+id: "mtc030",
+loginMode: "AdobePass",
+name: "MTCO Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Horizon Chillicothe Telephone Co.",
+hidden: false,
+id: "hor040",
+loginMode: "AdobePass",
+name: "Horizon Chillicothe Telephone Co.",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Service Electric Broadband Cable",
+hidden: false,
+id: "ser020",
+loginMode: "AdobePass",
+name: "Service Electric Broadband Cable",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Blue Stream",
+hidden: false,
+id: "tpc010",
+loginMode: "AdobePass",
+name: "Blue Stream",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "BSD Ocho",
+hidden: false,
+id: "Sprint",
+loginMode: "DigitalLocker",
+name: "Sprint",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "NTS Communications",
+hidden: false,
+id: "nts010",
+loginMode: "AdobePass",
+name: "NTS Communications",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Layer3 TV",
+hidden: false,
+id: "layer3tv_auth-gateway_net",
+loginMode: "AdobePass",
+logos: [
+{
+logoUrlApp: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/layer3_tv_application_logo.png",
+logoUrlRegPage: "http://playauthcontent.starz.com/Prod/affiliates/white+logos/layer3_tv_registration_logo.png"
+}
+],
+name: "Layer3 TV",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Celect-Mosaic Telecom",
+hidden: false,
+id: "dem010-06",
+loginMode: "AdobePass",
+name: "Celect-Mosaic Telecom",
+properties: [ ],
+services: [
+{ },
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "BOLT Fiber Optic Services",
+hidden: false,
+id: "nor270",
+loginMode: "AdobePass",
+name: "BOLT Fiber Optic Services",
+properties: [ ],
+services: [
+{ },
+{ },
+{ }
+]
+},
+{
+activeEndDtm: "9999-12-31T23:59:00.000+0000",
+activeStartDtm: "0001-01-01T00:00:00.000+0000",
+display: "Empire Access",
+hidden: false,
+id: "nor200",
+loginMode: "AdobePass",
+name: "Empire Access",
+properties: [ ],
+services: [
+{ },
+{ },
+{ }
+]
+}
+],
+version: "1"
+}
+}

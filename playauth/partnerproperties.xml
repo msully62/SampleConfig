@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<partnerArray>
+<partners>
+<partner>
+<id>1</id>
+<name>System</name>
+<properties value="true" name="AccountHistoryEnabled" type="PLAY_AUTH"/>
+<properties value="IAP" name="AccountType" type="PLAY_AUTH"/>
+<properties value="yUveqMxWNQTRBjBt" name="AdobePassConfigPrivateKey" type="PLAY_AUTH"/>
+<properties value="tqXxum1ETHvUOMlzMy75qUkVfkNYqtAm" name="AdobePassConfigPublicKey" type="PLAY_AUTH"/>
+<properties value="https://api.auth.adobe.com" name="AdobePassConfigUrlPrefix" type="PLAY_AUTH"/>
+<properties value="0" name="AllContentFreePreviewSeconds" type="PLAY_AUTH"/>
+<properties value="true" name="AllowPaymentStatusCheck" type="PLAY_AUTH"/>
+<properties value="http://www.starzplay.com" name="BingPostProviderUrl" type="PLAY_AUTH"/>
+<properties value="c3.starz" name="ConvivaCustomerId" type="PLAY_AUTH"/>
+<properties value="100b815f7a7b2bf9cf1e8bb6e31a2a69fd6d11c5" name="ConvivaCustomerKey" type="PLAY_AUTH"/>
+<properties value="1c7e50db-a1d6-422d-bb20-14ea4e3bbb38" name="DeluxeConfigDmsApiKey" type="PLAY_AUTH"/>
+<properties value="6b5b9b8caaf02a92dc4de088bf3201388fb15f82" name="DeluxeConfigDmsCertThumbprint" type="PLAY_AUTH"/>
+<properties value="https://stapi.dmlib.com/v1/dms/" name="DeluxeConfigDmsUrlPrefix" type="PLAY_AUTH"/>
+<properties value="120" name="DeluxeConfigTokenTTL" type="PLAY_AUTH"/>
+<properties value="https://stapi.dmlib.com/v2" name="DeluxeConfigUrlPrefix" type="PLAY_AUTH"/>
+<properties value="0EF7DFFC-FC61-4582-8E07-6DA502B82AB2" name="DeluxeD3UserRegistrationApiKey" type="PLAY_AUTH"/>
+<properties value="26020" name="DeluxeLivestreamContentId" type="PLAY_AUTH"/>
+<properties value="md:cid:org:bydeluxe.com:c1101a6a-c3ad-41af-bc61-b822199fb211" name="DeluxeLivestreamIdentifier" type="PLAY_AUTH"/>
+<properties value="52db2919-be2e-41e9-b379-dadda1be547b" name="GhostLockerClientApiKey" type="PLAY_AUTH"/>
+<properties value="https://ghostlocker.starz.com/api/v1" name="GhostLockerUrlPrefix" type="PLAY_AUTH"/>
+<properties value="{"rules":[\{"platformType":"*","platformVersion":"*","endpointPrefix": "https://stapi.dmlib.com/v1/dms/playready"}]}" name="LicenseServerUrlRules" type="PLAY_AUTH"/>
+<properties value="web" name="MetadataPrerollDeviceType" type="PLAY_AUTH"/>
+<properties value="starz.122.2o7.net" name="OmnitureTrackingServer" type="PLAY_AUTH"/>
+<properties value="starz" name="OmnitureVisitorNamespace" type="PLAY_AUTH"/>
+<properties value="https://callback.starz.com/callback/potentialCustomer/save/partner/{partnerName}/freeMovie" name="PantayaFreeMovieCallbackUrl" type="PLAY_AUTH"/>
+<properties value="DEFAULT" name="PlayAuthApiKey" type="PLAY_AUTH"/>
+<properties value="http://activate.starz.com" name="RedirectLanding" type="PLAY_AUTH"/>
+<properties value="https://feeddata.imgix.net/spotify/albums/v1/{album_id}.jpg" name="SpotifyAlbumImageUrlTemplate" type="PLAY_AUTH"/>
+<properties value="https://feeddata.imgix.net/spotify/playlists/v1/{playlist_id}.jpg" name="SpotifyPlaylistImageUrlTemplate" type="PLAY_AUTH"/>
+<properties value="https://analytics.starz.com/track/" name="StarzAnalyticsEndpoint" type="PLAY_AUTH"/>
+<properties value="https://callback.starz.com/callback/feedback/save/partner/{partnerName}/customerFeedback" name="StarzCustomerFeedbackUrl" type="PLAY_AUTH"/>
+<properties value="http://assets.starz.com/PLAY/starz/faq/starz_play_faq.xml" name="StarzFaqUrl" type="PLAY_AUTH"/>
+<properties value="https://starz-favs.imgix.net/{artist_id}_1080x1440.jpg" name="StarzHeadshotImageUrlTemplate" type="PLAY_AUTH"/>
+<properties value="http://imagedata.starz.com/metadata-service/image/partner/" name="StarzImageRootUrl" type="PLAY_AUTH"/>
+<properties value="starz_livestream" name="StarzLivestreamIdentifier" type="PLAY_AUTH"/>
+<properties value="https://playdata.starz.com/" name="StarzMetadataRootUrl" type="PLAY_AUTH"/>
+<properties value="http://preroll.starz.com/" name="StarzPreRollRootUrl" type="PLAY_AUTH"/>
+<properties value="http://assets.starz.com/PLAY/Stage/starz/legal/privacypolicy.txt" name="StarzPrivacyPolicyUrl" type="PLAY_AUTH"/>
+<properties value="http://assets.starz.com/PLAY/starz/legal/termsofuse.txt" name="StarzTermsOfUseUrl" type="PLAY_AUTH"/>
+<properties value="false" name="UseHttpsImages" type="PLAY_AUTH"/>
+</partner>
+<partner>
+<id>32</id>
+<name>XBOX_Starz</name>
+<properties value="true" name="AccountHistoryEnabled" type="PLAY_AUTH"/>
+<properties value="IAP" name="AccountType" type="PLAY_AUTH"/>
+<properties value="yUveqMxWNQTRBjBt" name="AdobePassConfigPrivateKey" type="PLAY_AUTH"/>
+<properties value="tqXxum1ETHvUOMlzMy75qUkVfkNYqtAm" name="AdobePassConfigPublicKey" type="PLAY_AUTH"/>
+<properties value="starzplay.com" name="AdobePassConfigRequestorDomain" type="PLAY_AUTH"/>
+<properties value="starzplay" name="AdobePassConfigRequestorId" type="PLAY_AUTH"/>
+<properties value="https://api.auth.adobe.com" name="AdobePassConfigUrlPrefix" type="PLAY_AUTH"/>
+<properties value="0" name="AllContentFreePreviewSeconds" type="PLAY_AUTH"/>
+<properties value="true" name="AllowPaymentStatusCheck" type="PLAY_AUTH"/>
+<properties value="http://www.starzplay.com" name="BingPostProviderUrl" type="PLAY_AUTH"/>
+<properties value="c3.starz" name="ConvivaCustomerId" type="PLAY_AUTH"/>
+<properties value="1d44959126cf48ab37bd34a2e67d30f91504bb55" name="ConvivaCustomerKey" type="PLAY_AUTH"/>
+<properties value="Starz Xbox Lakeview" name="ConvivaPlayerName" type="PLAY_AUTH"/>
+<properties value="1B7EF2C1-0487-4B31-8400-79F8B5D911D7" name="DeluxeConfigApiKey" type="PLAY_AUTH"/>
+<properties value="1c7e50db-a1d6-422d-bb20-14ea4e3bbb38" name="DeluxeConfigDmsApiKey" type="PLAY_AUTH"/>
+<properties value="43a0b720ebc42a53da12e6a7dacaa097f76e3267" name="DeluxeConfigDmsCertThumbprint" type="PLAY_AUTH"/>
+<properties value="https://stapi.dmlib.com/v1/dms/" name="DeluxeConfigDmsUrlPrefix" type="PLAY_AUTH"/>
+<properties value="120" name="DeluxeConfigTokenTTL" type="PLAY_AUTH"/>
+<properties value="https://stapi.dmlib.com/v2" name="DeluxeConfigUrlPrefix" type="PLAY_AUTH"/>
+<properties value="0EF7DFFC-FC61-4582-8E07-6DA502B82AB2" name="DeluxeD3UserRegistrationApiKey" type="PLAY_AUTH"/>
+<properties value="26020" name="DeluxeLivestreamContentId" type="PLAY_AUTH"/>
+<properties value="md:cid:org:bydeluxe.com:c1101a6a-c3ad-41af-bc61-b822199fb211" name="DeluxeLivestreamIdentifier" type="PLAY_AUTH"/>
+<properties value="" name="ExcludedMvpdIds" type="PLAY_AUTH"/>
+<properties value="52db2919-be2e-41e9-b379-dadda1be547b" name="GhostLockerClientApiKey" type="PLAY_AUTH"/>
+<properties value="https://ghostlocker.starz.com/api/v1" name="GhostLockerUrlPrefix" type="PLAY_AUTH"/>
+<properties value="{"rules":[\{"platformType":"*","platformVersion":"*","endpointPrefix": "https://stapi.dmlib.com/v1/dms/playready"}]}" name="LicenseServerUrlRules" type="PLAY_AUTH"/>
+<properties value="XBOX_Starz" name="MetadataPartnerId" type="PLAY_AUTH"/>
+<properties value="xbox" name="MetadataPrerollDeviceType" type="PLAY_AUTH"/>
+<properties value="Xbox" name="MixpanelDeviceType" type="PLAY_AUTH"/>
+<properties value="Xbox Lakeview" name="MixpanelPlayerName" type="PLAY_AUTH"/>
+<properties value="d3ffefd61ae6f82676c8a7247ad0a46b" name="MixpanelServiceToken" type="PLAY_AUTH"/>
+<properties value="starzplaystarzprod" name="OmnitureAccount" type="PLAY_AUTH"/>
+<properties value="starz.122.2o7.net" name="OmnitureTrackingServer" type="PLAY_AUTH"/>
+<properties value="starz" name="OmnitureVisitorNamespace" type="PLAY_AUTH"/>
+<properties value="https://callback.starz.com/callback/potentialCustomer/save/partner/{partnerName}/freeMovie" name="PantayaFreeMovieCallbackUrl" type="PLAY_AUTH"/>
+<properties value="595707D1" name="PlayAuthApiKey" type="PLAY_AUTH"/>
+<properties value="" name="PlayAuthApiSecret" type="PLAY_AUTH"/>
+<properties value="http://activate.starz.com" name="RedirectLanding" type="PLAY_AUTH"/>
+<properties value="Starz" name="ServiceId" type="PLAY_AUTH"/>
+<properties value="https://feeddata.imgix.net/spotify/albums/v1/{album_id}.jpg" name="SpotifyAlbumImageUrlTemplate" type="PLAY_AUTH"/>
+<properties value="https://feeddata.imgix.net/spotify/playlists/v1/{playlist_id}.jpg" name="SpotifyPlaylistImageUrlTemplate" type="PLAY_AUTH"/>
+<properties value="https://analytics.starz.com/track/" name="StarzAnalyticsEndpoint" type="PLAY_AUTH"/>
+<properties value="https://callback.starz.com/callback/feedback/save/partner/{partnerName}/customerFeedback" name="StarzCustomerFeedbackUrl" type="PLAY_AUTH"/>
+<properties value="http://assets.starz.com/PLAY/starz/faq/starz_play_faq.xml" name="StarzFaqUrl" type="PLAY_AUTH"/>
+<properties value="https://starz-favs.imgix.net/{artist_id}_1080x1440.jpg" name="StarzHeadshotImageUrlTemplate" type="PLAY_AUTH"/>
+<properties value="http://imagedata.starz.com/metadata-service/image/partner/" name="StarzImageRootUrl" type="PLAY_AUTH"/>
+<properties value="starz_livestream" name="StarzLivestreamIdentifier" type="PLAY_AUTH"/>
+<properties value="https://playdata.starz.com/" name="StarzMetadataRootUrl" type="PLAY_AUTH"/>
+<properties value="http://preroll.starz.com/" name="StarzPreRollRootUrl" type="PLAY_AUTH"/>
+<properties value="http://assets.starz.com/PLAY/Stage/starz/legal/privacypolicy.txt" name="StarzPrivacyPolicyUrl" type="PLAY_AUTH"/>
+<properties value="http://assets.starz.com/PLAY/Stage/starz/legal/termsofuse.txt" name="StarzTermsOfUseUrl" type="PLAY_AUTH"/>
+<properties value="xbox" name="StorageId" type="PLAY_AUTH"/>
+<properties value="false" name="UseHttpsImages" type="PLAY_AUTH"/>
+</partner>
+
